@@ -1,6 +1,7 @@
 import dynamic from "next/dynamic";
 import { useState } from "react";
 import styles from "../styles/productCard.module.scss";
+import Link from "next/link";
 // import ProductDetailsModal from "./ProductDetailsModal";
 
 const ReactStars = dynamic(() => import("react-rating-stars-component"), {

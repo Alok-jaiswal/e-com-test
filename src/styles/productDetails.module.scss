@@ -182,4 +182,14 @@
   .description {
     font-size: 1.1rem;
   }
+  .addToCartContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .addToCart{
+    margin-top: 20px;
+  }
 }
