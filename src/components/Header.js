@@ -69,11 +69,11 @@ export default function Header({ setShowFilters, showFilters }) {
             <div className={styles.profileDropdown} ref={profileRef}>
               <p>Name: Alok Jaiswal</p>
               <a
-                href="https://github.com/Alok-jaiswal/e-com"
+                href="https://github.com/Alok-jaiswal/e-com-test"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                GitHub: Alok-jaiswal/e-com
+                GitHub: Alok-jaiswal/e-com-test
               </a>
               <p>Email: alokasha7620@gmail.com</p>
             </div>

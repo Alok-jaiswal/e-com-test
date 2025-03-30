@@ -6,7 +6,7 @@ export default function Footer() {
       <div className={styles.container}>
         <p className={styles.title}>E-commerce Product Listing Page</p>
         <a
-          href="https://github.com/Alok-jaiswal/e-com"
+          href="https://github.com/Alok-jaiswal/e-com-test"
           target="_blank"
           rel="noopener noreferrer"
           className={styles.githubLink}
